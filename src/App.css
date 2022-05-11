@@ -1,0 +1,7 @@
+.regForm{
+    background-image: url('./Component//bg1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:700px;
+   background-attachment: fixed;
+  }
